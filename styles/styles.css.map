@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAW,CACT,UAAU,CAAE,KAAK,CACjB,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC",
+"sources": ["site_styles/_background.scss"],
+"names": [],
+"file": "styles.css"
+}
